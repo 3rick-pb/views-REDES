@@ -1,3 +1,0 @@
-hola=function(){
-    alert(`GRACIAS...`);    
-}
